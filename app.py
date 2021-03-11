@@ -105,5 +105,3 @@ def list_poll():
 # -------- Adding up votes --------- #
 
 
-
-
